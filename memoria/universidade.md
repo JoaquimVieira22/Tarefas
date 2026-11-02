@@ -1,7 +1,7 @@
 # Universidade — calendário de avaliações
 
 > Licenciatura em Turismo, ESEC (Coimbra), 3.º ano, 1.º semestre 2026/2027.
-> Fontes: "Resumo de Estudo" de cada cadeira na Drive, doc "Tarefas pendentes" (Drive) e Gmail.
+> Fontes: "Resumo de Estudo" de cada cadeira na Drive e Gmail.
 > Última verificação: 2026-11-02. Datas marcadas "confirmar" não estão fechadas.
 > Ao planear, voltar a verificar a Drive e o Gmail (podem surgir datas novas).
 
