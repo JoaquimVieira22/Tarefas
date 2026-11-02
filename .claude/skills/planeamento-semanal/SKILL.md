@@ -13,7 +13,8 @@ Curto, prático, para ler no telemóvel em 2 minutos.
 1b. `memoria/universidade.md` — testes, entregas e apresentações. Incluir no plano tudo o que
    cai nessa semana **e** um aviso do que vem nas 2 semanas seguintes (para começar a preparar).
    Verificar também a Drive (docs "Resumo de Estudo – …") e o Gmail
-   (remetentes @esec.pt, colegas de grupo) à procura de datas novas ou alteradas; se houver,
+   (remetentes @esec.pt, colegas de grupo, e tudo o que chega encaminhado do e-mail institucional:
+   `deliveredto:a2023142011@alumni.iscac.pt`) à procura de datas novas ou alteradas; se houver,
    atualizar `universidade.md` e o doc correspondente na Drive.
 2. `tarefas/pendentes.md` e `tarefas/concluidas.md`
 3. `memoria/churrascaria/projeto.md`

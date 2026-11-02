@@ -5,6 +5,8 @@ _O assistente vai preenchendo este ficheiro à medida que for conhecendo o Joaqu
 ## Sobre mim
 - Joaquim Vieira, 22 anos
 - Finalista da licenciatura em Turismo na ESEC (Coimbra) — calendário em `universidade.md`
+- Antes estudou Marketing e Negócios Internacionais no ISCAC (também do Politécnico de Coimbra)
+- E-mail institucional (IPC): a2023142011@alumni.iscac.pt — encaminhado para o Gmail desde 2026-11-02
 - Língua: português de Portugal
 - Durante a universidade vive em Coimbra; ao fim de semana vai para Ourém (casa dos pais)
 - Zona do negócio: Pinhel, concelho de Ourém

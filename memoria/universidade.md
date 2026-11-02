@@ -80,7 +80,9 @@ semanas com a matéria nova (e-mails, Inforestudante, resumos da Drive).
 
 ## Onde procurar informação nova (verificar todas as semanas)
 - **Gmail:** e-mails de @esec.pt / @ipc.pt, do Inforestudante e da plataforma de e-learning, e dos
-  colegas de grupo (datas, matéria nova, enunciados, alterações).
+  colegas de grupo (datas, matéria nova, enunciados, alterações). O e-mail institucional
+  (a2023142011@alumni.iscac.pt) é encaminhado para o Gmail: pesquisar também
+  `deliveredto:a2023142011@alumni.iscac.pt`.
 - **Drive:** resumos de estudo novos ou alterados.
 - **Limitação:** o assistente não consegue entrar no Inforestudante com a conta do Joaquim; só vê o
   que chega por e-mail ou o que o Joaquim põe na Drive.
