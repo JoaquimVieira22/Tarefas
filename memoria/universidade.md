@@ -5,6 +5,20 @@
 > Última verificação: 2026-11-02. "Confirmar" = data não fechada.
 > Ao planear, voltar a verificar a Drive e o Gmail (podem surgir datas novas).
 
+## Horário semanal das aulas (Inforestudante, enviado a 2026-11-02)
+Fonte: captura da semana de 12–18 out; assume-se que se repete todas as semanas.
+Siglas: GH Gestão Hoteleira · AMT Análise de Mercados Turísticos · TI Turismo Internacional ·
+MIP Musealização · CC Comportamento do Consumidor · GAT Gestão Ambiental · LEVI Inglês ·
+EAP Empreendedorismo [PRESSUPOSTO: siglas deduzidas; MIP e EAP por confirmar].
+
+| Dia | Aulas | Livre (8h–20h) |
+|---|---|---|
+| Segunda | 11–13 GH (Sala 2) · 15–17 AMT (Sala 7) | até às 11h · 13–15h · depois das 17h |
+| Terça | 9–11 GH (Sala 3) · 13–17 TI (Sala 17) | 11–13h · depois das 17h |
+| Quarta | 9–13 MIP (Sala 17) · 14–17 CC (Sala 18) · 17–19 EAP (Sala 19) | 13–14h · depois das 19h (dia mais cheio) |
+| Quinta | 14–17 GAT (Sala 4) · 17–19 LEVI (Anfiteatro) | até às 14h · depois das 19h |
+| Sexta | sem aulas | dia todo (pode ir mais cedo para Ourém) |
+
 ## Calendário
 **Regra de prioridade (indicada pelo Joaquim a 2026-11-02):** os "Resumo de Estudo" da Drive
 são os mais atualizados e **prevalecem** (D). A lista que o Joaquim enviou é mais antiga e só
