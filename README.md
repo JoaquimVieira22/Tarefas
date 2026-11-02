@@ -10,6 +10,8 @@ e responde com a lista, a melhor forma e a forma mais rápida de fazer cada tare
 - `tarefas/concluidas.md` – histórico do que já foi feito
 - `memoria/` – o que o assistente sabe sobre ti e sobre o projeto da churrascaria
 - `.claude/skills/assistente/` – a skill do teu assistente pessoal e de negócios
+- `.claude/skills/registo-provas/` – regista provas do molho e da concorrência no Google Sheets
+- `.claude/skills/planeamento-semanal/` – plano da semana (corre sozinho ao domingo à noite)
 - `.claude/skills/find-skills/` – procura de skills, com relatório de segurança obrigatório
 
 ## Como usar
