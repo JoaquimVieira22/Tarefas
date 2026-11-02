@@ -10,8 +10,17 @@ _Preparado pelo assistente a 2 nov 2026. Calendário completo: doc "Universidade
 - Terça 3: apresentação de Turismo Internacional; consulta às 12:00.
 - Quarta 4: sem aula de Comportamento do Consumidor (visita a Condeixa). Em Empreendedorismo começa o Estudo de Viabilidade Económica, base do Trabalho 2 (entrega a 13 dez).
 - Sexta 6: entrevista de Comportamento do Consumidor (confirmar).
-- Adiantar: Inglês, formulário de inscrição do workshop até quinta 12 (segundo o plano do projeto; confirma com o grupo).
+- Adiantar: Inglês, Progress Meeting 2 na quinta 12. O grupo tem de levar as ideias das atividades do workshop e o formulário de inscrição.
 - E-mails: nada por responder. Aguardas a resposta da prof. Mariana sobre o estágio.
+
+## Estudo desta semana
+- Terça à noite, 45 min — Gestão Hoteleira: tipologias e números-chave (resumo, secção 1.2). O teste é a 30 nov.
+- Quinta, 1 h — Análise de Mercados Turísticos: fórmulas (Toq, Toc, Tor, estada média, sazonalidade) com o exemplo do hotel do resumo.
+- Sexta, 30 min — Inglês: ideias de atividades para o workshop (subtema ethical challenges and personalisation) para o PM2.
+- Trabalho de Turismo Internacional: reunião curta do grupo para dividir as partes (entrega a 24 nov).
+
+## Matéria e informação nova
+- Primeiro plano com o calendário completo. A partir de agora verifico os e-mails e os resumos da Drive à quarta e ao domingo.
 
 ## Fim de semana em Ourém
 - Molho da casa, versão 1: antes de começar, escreve a receita base com quantidades exatas. Depois manda-me as notas de cada pessoa e eu registo.
@@ -19,10 +28,10 @@ _Preparado pelo assistente a 2 nov 2026. Calendário completo: doc "Universidade
 - Concorrência: como o jantar de sábado está ocupado, encomenda o frango na sexta à noite ou ao almoço de domingo, numa churrasqueira perto de Pinhel, e avalia (preço, espera, embalagem, qualidade, molho).
 
 ## O que vem nas próximas 2 semanas
-- Quinta 12 nov: Inglês, formulário de inscrição do workshop (confirmar).
+- Quinta 12 nov: Inglês, Progress Meeting 2 + formulário de inscrição.
 - Terça 17 nov: visita ao Hotel Coimbra Aeminium (Gestão Hoteleira).
 - Quarta 18 nov: possível apresentação da entrevista de Comportamento do Consumidor (data do grupo por confirmar).
-- Quinta 19 nov: Inglês, ponto de situação 3 + formulário de avaliação final (responsabilidade do teu grupo).
+- Quinta 19 nov: Inglês, Progress Meeting 3 + formulário de avaliação final (responsabilidade do teu grupo).
 - Terça 24 nov: entrega do trabalho de Turismo Internacional (15 a 25 páginas, sem atrasos). Convém o grupo dividir as partes já esta semana.
 
 ## Espalha Brasas — em que ponto estamos

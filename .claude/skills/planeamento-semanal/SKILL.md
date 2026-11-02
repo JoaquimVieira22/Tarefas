@@ -36,6 +36,17 @@ Curto, prático, para ler no telemóvel em 2 minutos.
 - Universidade / estágio / outra empresa — o que houver
 - E-mails a responder (quem e sobre o quê, numa linha cada)
 
+## Estudo desta semana
+3 a 5 sessões concretas (dia sugerido, duração, cadeira e o que estudar, com referência à
+secção do "Resumo de Estudo"), tiradas do esqueleto "Plano de estudo" de
+`memoria/universidade.md` e ajustadas à matéria nova encontrada. Ex.: "Terça à noite, 1 h —
+Gestão Hoteleira: tipologias e números (resumo, secção 1.2)". Se o Joaquim ficou para trás
+numa semana, redistribuir sem empilhar tudo numa só semana.
+
+## Matéria e informação nova
+O que apareceu desde o último plano (e-mails da ESEC/colegas, resumos novos ou alterados na
+Drive). Se não houver nada, dizer numa linha.
+
 ## Fim de semana em Ourém
 - Tarefas de fim de semana (molho, concorrência…), com sugestão concreta:
   ex. "Encomendar no Franganito ao jantar de sábado" ou "Testar molho v4: menos vinagre"
@@ -46,6 +57,8 @@ Uma ou duas linhas; o próximo passo.
 ## Para pensar (opcional)
 Um conselho curto de consultor ou um lembrete de equilíbrio (descanso, estudo).
 ```
+Regra de prioridade das datas: e-mails/Inforestudante recentes > "Resumo de Estudo" da Drive
+> lista antiga do Joaquim (ver `memoria/universidade.md`).
 Não inventar compromissos nem prazos: só o que estiver nas fontes. Se uma tarefa estiver
 parada há muito, sugerir com tato dividi-la ou largá-la.
 
@@ -60,6 +73,13 @@ parada há muito, sugerir com tato dividi-la ou largá-la.
 ## Se faltar alguma coisa
 Se o Gmail ou a Drive não estiverem acessíveis, fazer o plano com o que houver e dizer
 numa linha o que não foi possível consultar.
+
+## Verificação a meio da semana
+Às quartas-feiras corre uma verificação curta (tarefa agendada `trig_01YVznTKgDWGhztkoqydUmRH`, às 19:47): procurar no Gmail
+(últimos 4 dias) e nos resumos da Drive informação nova da universidade (datas, matéria,
+enunciados, alterações). Se houver: atualizar `memoria/universidade.md`, as tarefas e os docs da
+Drive, e enviar uma PushNotification curta. Se não houver nada: não notificar; terminar com uma
+linha "Sem novidades da universidade".
 
 ## Tarefa agendada
 Corre todos os domingos às 21:40 (hora de Lisboa) **dentro da sessão original do Claude Code**
