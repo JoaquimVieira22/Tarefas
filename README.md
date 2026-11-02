@@ -8,6 +8,9 @@ e responde com a lista, a melhor forma e a forma mais rápida de fazer cada tare
 
 - `tarefas/pendentes.md` – tarefas por fazer (com prioridade, prazo e dicas)
 - `tarefas/concluidas.md` – histórico do que já foi feito
+- `memoria/` – o que o assistente sabe sobre ti e sobre o projeto da churrascaria
+- `.claude/skills/assistente/` – a skill do teu assistente pessoal e de negócios
+- `.claude/skills/find-skills/` – procura de skills, com relatório de segurança obrigatório
 
 ## Como usar
 
