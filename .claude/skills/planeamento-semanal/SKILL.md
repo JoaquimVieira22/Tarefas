@@ -76,7 +76,7 @@ Se o Gmail ou a Drive não estiverem acessíveis, fazer o plano com o que houver
 numa linha o que não foi possível consultar.
 
 ## Verificação a meio da semana
-Às quartas-feiras corre uma verificação curta (tarefa agendada `trig_01YVznTKgDWGhztkoqydUmRH`, às 19:47): procurar no Gmail
+Às quartas-feiras corre uma verificação curta (tarefa agendada `trig_019fim79FknssypksSGiaPDi`, às 19:47): procurar no Gmail
 (últimos 4 dias) e nos resumos da Drive informação nova da universidade (datas, matéria,
 enunciados, alterações). Se houver: atualizar `memoria/universidade.md`, as tarefas e os docs da
 Drive, e enviar uma PushNotification curta. Se não houver nada: não notificar; terminar com uma
@@ -84,7 +84,7 @@ linha "Sem novidades da universidade".
 
 ## Tarefa agendada
 Corre todos os domingos às 21:40 (hora de Lisboa) **dentro da sessão original do Claude Code**
-(`session_01AiKmU4MtvsQCDzDZ5r17Ad`), que tem acesso ao Gmail, à Drive e ao repositório.
-Id da tarefa agendada: `trig_01G7JcQEcpnrLytL2vF9ZTw3` (para alterar a hora ou parar).
+(`session_01AiKmU7PdCoNdJ4xMxFMFSd`), que tem acesso ao Gmail, à Drive e ao repositório.
+Id da tarefa agendada: `trig_01LuoKBMuQLg3BS6ijnzrrHN` (para alterar a hora ou parar).
 Se essa sessão for arquivada, a tarefa deixa de correr: recriá-la a partir de uma sessão
 que tenha os conectores.
