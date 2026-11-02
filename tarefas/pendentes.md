@@ -22,6 +22,18 @@ Formato de cada tarefa:
 
 ## 🎓 Universidade (datas completas em `memoria/universidade.md`)
 
+## [Urgente] Apresentação de Turismo Internacional
+- Prazo: amanhã, ter 3 nov (aula das 13h–17h, Sala 17)
+- Notas: a consulta é ao meio-dia, por isso a apresentação tem de ficar pronta e ensaiada hoje à noite
+- Melhor forma: hoje à noite, ensaiar a tua parte 2 vezes em voz alta, com o tempo cronometrado, e combinar no grupo a ordem de quem fala
+- Forma mais rápida: rever os teus diapositivos e escrever 3–4 tópicos por diapositivo para levar
+
+## [Urgente] Consulta às 12h (Coimbra)
+- Prazo: amanhã, ter 3 nov, 12:00
+- Notas: sais de Gestão Hoteleira às 11h; a aula de TI começa às 13h. Se a consulta atrasar, avisar o grupo/docente de TI
+- Melhor forma: levar o que for preciso (cartão de cidadão/utente) e sair cedo para chegar a horas
+- Forma mais rápida: pôr um alarme às 11h15
+
 ## [Alta] Confirmar com o grupo a data da entrevista de Comportamento do Consumidor
 - Prazo: amanhã (a entrevista deverá ser na sexta 6 nov)
 - Notas: confirmar hora, quem leva o guião validado pela docente e o pedido de autorização para gravar
