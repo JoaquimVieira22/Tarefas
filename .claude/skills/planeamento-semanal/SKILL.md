@@ -57,5 +57,8 @@ Se o Gmail ou a Drive não estiverem acessíveis, fazer o plano com o que houver
 numa linha o que não foi possível consultar.
 
 ## Tarefa agendada
-Corre todos os domingos às 21:40 (hora de Lisboa), numa sessão nova, com notificação no
-telemóvel. Id da tarefa agendada: `trig_01XJEjxTdzoLRnX3moravk6e` (para alterar a hora ou parar).
+Corre todos os domingos às 21:40 (hora de Lisboa) **dentro da sessão original do Claude Code**
+(`session_01AiKmU4MtvsQCDzDZ5r17Ad`), que tem acesso ao Gmail, à Drive e ao repositório.
+Id da tarefa agendada: `trig_01G7JcQEcpnrLytL2vF9ZTw3` (para alterar a hora ou parar).
+Se essa sessão for arquivada, a tarefa deixa de correr: recriá-la a partir de uma sessão
+que tenha os conectores.
