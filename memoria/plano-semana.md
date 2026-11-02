@@ -15,7 +15,8 @@ _Preparado pelo assistente a 2 nov 2026. Calendário completo: doc "Universidade
 
 ## Fim de semana em Ourém
 - Molho da casa, versão 1: antes de começar, escreve a receita base com quantidades exatas. Depois manda-me as notas de cada pessoa e eu registo.
-- Concorrência: encomendar frango numa churrasqueira perto de Pinhel ao jantar e avaliar (preço, espera, embalagem, qualidade, molho).
+- **Sábado 7, ao jantar: reunião da nova empresa com o teu irmão e o Bruno.** Leva a pergunta dos apoios: o teu papel na empresa (sócio-gerente ou não, com ou sem salário) pode afetar o acesso aos apoios para a Espalha Brasas.
+- Concorrência: como o jantar de sábado está ocupado, encomenda o frango na sexta à noite ou ao almoço de domingo, numa churrasqueira perto de Pinhel, e avalia (preço, espera, embalagem, qualidade, molho).
 
 ## O que vem nas próximas 2 semanas
 - Quinta 12 nov: Inglês, Progress Meeting 2 + formulário de inscrição.

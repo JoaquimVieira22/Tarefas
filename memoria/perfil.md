@@ -12,7 +12,7 @@ _O assistente vai preenchendo este ficheiro à medida que for conhecendo o Joaqu
 ## Objetivos
 - Abrir a **Espalha Brasas**, uma churrascaria de take away (primeiro negócio) —
   ver `churrascaria/projeto.md`
-- Vai também abrir outra empresa com 2 sócios (certeza; nos próximos meses)
+- Vai também abrir outra empresa com o irmão e o Bruno (sócios; certeza; nos próximos meses)
 
 ## Calendário previsto (indicado em 2026-11-02)
 1. Terminar a licenciatura (~2 meses → ~jan/2027), depois férias de Natal

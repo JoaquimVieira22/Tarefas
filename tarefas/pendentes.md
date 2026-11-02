@@ -10,6 +10,16 @@ Formato de cada tarefa:
 - Forma mais rápida: ...
 ```
 
+## 🏢 Outra empresa (com o irmão e o Bruno)
+
+## [Alta] Preparar a reunião de sábado 7 nov (ao jantar)
+- Prazo: sábado 7 nov
+- Notas: levar a questão do papel do Joaquim na empresa (sócio-gerente ou não, com ou sem salário), porque pode afetar os apoios para a Espalha Brasas (Empreende XXI)
+- Melhor forma: levar uma agenda curta por escrito e sair com decisões e responsáveis
+- Forma mais rápida: pedir ao assistente a agenda e uma lista de perguntas
+
+---
+
 ## 🎓 Universidade (datas completas em `memoria/universidade.md`)
 
 ## [Alta] Confirmar com o grupo a data da entrevista de Comportamento do Consumidor
