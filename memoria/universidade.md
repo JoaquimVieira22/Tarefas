@@ -89,9 +89,10 @@ semanas com a matéria nova (e-mails, Inforestudante, resumos da Drive).
 
 ## Estágio curricular
 - Câmara Municipal de Ourém, a partir de **1 de fevereiro de 2027**, 560 horas.
-- Contacto na Câmara: Dra. Hélia Rosa (helia.rosa@mail.cm-ourem.pt).
+- Contacto na Câmara: Dra. Hélia Rosa, Técnica Superior da **Divisão de Educação** (helia.rosa@mail.cm-ourem.pt; tel. 249 540 900).
 - O pedido formal tem de ser feito pela ESEC (prof. Mariana Carvalho, marianacabral@esec.pt).
-  A 2026-11-02 o Joaquim pediu-lhe que avançasse já com o pedido. **A aguardar resposta.**
+  A 2026-11-02 a professora respondeu que vai fazer o pedido ao **gabinete de estágios da ESEC**, que
+  formaliza o processo, e perguntou qual é a função da Dra. Hélia (RH ou Turismo?). **Falta responder.**
 
 ## Resumos de estudo (Drive)
 Há um "Resumo de Estudo – <cadeira>" para cada cadeira, com programa, avaliação e matéria.

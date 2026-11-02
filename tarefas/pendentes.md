@@ -28,11 +28,11 @@ Formato de cada tarefa:
 - Melhor forma: mensagem no grupo com as 3 perguntas
 - Forma mais rápida: perguntar na aula de amanhã
 
-## [Alta] Acompanhar o pedido de estágio (ESEC → Câmara de Ourém)
-- Prazo: se a prof. Mariana não responder até sexta 6 nov, enviar lembrete
-- Notas: pedido a enviar à Dra. Hélia Rosa; estágio a partir de 1 fev 2027, 560 h
-- Melhor forma: lembrete curto e cordial por e-mail (o assistente redige)
-- Forma mais rápida: perguntar à professora no corredor
+## [Alta] Responder à prof. Mariana sobre a função da Dra. Hélia
+- Prazo: amanhã
+- Notas: a professora vai pedir ao gabinete de estágios da ESEC para formalizar e perguntou se a Dra. Hélia é dos RH ou do Turismo. Resposta: Técnica Superior da Divisão de Educação (assinatura do e-mail de 28 out). Rascunho preparado pelo assistente.
+- Melhor forma: responder no mesmo e-mail, curto e cordial
+- Forma mais rápida: enviar o rascunho do assistente
 
 ## [Alta] Dividir o trabalho de Turismo Internacional no grupo
 - Prazo: esta semana (entrega a 24 nov, sem atrasos)
