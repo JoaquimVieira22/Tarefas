@@ -10,7 +10,7 @@ _Preparado pelo assistente a 2 nov 2026. Calendário completo: doc "Universidade
 - Terça 3: apresentação de Turismo Internacional; consulta às 12:00.
 - Quarta 4: sem aula de Comportamento do Consumidor (visita a Condeixa). Em Empreendedorismo começa o Estudo de Viabilidade Económica, base do Trabalho 2 (entrega a 13 dez).
 - Sexta 6: entrevista de Comportamento do Consumidor (confirmar).
-- Adiantar para a próxima semana: Inglês, Progress Meeting 2 na quinta 12. O grupo tem de levar as ideias das atividades do workshop e o formulário de inscrição.
+- Adiantar: Inglês, formulário de inscrição do workshop até quinta 12 (segundo o plano do projeto; confirma com o grupo).
 - E-mails: nada por responder. Aguardas a resposta da prof. Mariana sobre o estágio.
 
 ## Fim de semana em Ourém
@@ -19,14 +19,14 @@ _Preparado pelo assistente a 2 nov 2026. Calendário completo: doc "Universidade
 - Concorrência: como o jantar de sábado está ocupado, encomenda o frango na sexta à noite ou ao almoço de domingo, numa churrasqueira perto de Pinhel, e avalia (preço, espera, embalagem, qualidade, molho).
 
 ## O que vem nas próximas 2 semanas
-- Quinta 12 nov: Inglês, Progress Meeting 2 + formulário de inscrição.
+- Quinta 12 nov: Inglês, formulário de inscrição do workshop (confirmar).
 - Terça 17 nov: visita ao Hotel Coimbra Aeminium (Gestão Hoteleira).
 - Quarta 18 nov: possível apresentação da entrevista de Comportamento do Consumidor (data do grupo por confirmar).
-- Quinta 19 nov: Inglês, Progress Meeting 3 + formulário de avaliação final (responsabilidade do teu grupo).
+- Quinta 19 nov: Inglês, ponto de situação 3 + formulário de avaliação final (responsabilidade do teu grupo).
 - Terça 24 nov: entrega do trabalho de Turismo Internacional (15 a 25 páginas, sem atrasos). Convém o grupo dividir as partes já esta semana.
 
 ## Espalha Brasas — em que ponto estamos
 Em pausa até depois dos exames; só as tarefas de fim de semana (molho e concorrência). Dica: o Trabalho 2 de Empreendedorismo (margem de contribuição, ponto crítico de vendas, ROI) é exatamente o que vais precisar para as contas da churrascaria.
 
 ## Para pensar
-Dezembro vai ser pesado: entre 30 nov e 16 dez tens 5 testes/frequências, 4 entregas e 5 apresentações. Se adiantares o trabalho de Turismo Internacional em novembro, chegas lá com folga. Atenção também à sexta 4 dez: workshop de Inglês (9h–11h) e apresentação de Turismo Internacional no mesmo dia — confirma os horários.
+O fim do semestre vai ser pesado: de 24 nov a 16 dez tens 7 frequências, 5 entregas e 5 apresentações, e a semana de 30 nov a 4 dez tem 3 frequências seguidas. Se adiantares o trabalho de Turismo Internacional em novembro, chegas lá com folga. Atenção também à sexta 4 dez: workshop de Inglês (9h–11h) e apresentação de Turismo Internacional no mesmo dia — confirma os horários.
