@@ -10,6 +10,28 @@ Formato de cada tarefa:
 - Forma mais rápida: ...
 ```
 
+## 🎓 Universidade (datas completas em `memoria/universidade.md`)
+
+## [Alta] Confirmar com o grupo a data da entrevista de Comportamento do Consumidor
+- Prazo: amanhã (a entrevista deverá ser na sexta 6 nov)
+- Notas: confirmar hora, quem leva o guião validado pela docente e o pedido de autorização para gravar
+- Melhor forma: mensagem no grupo com as 3 perguntas
+- Forma mais rápida: perguntar na aula de amanhã
+
+## [Alta] Acompanhar o pedido de estágio (ESEC → Câmara de Ourém)
+- Prazo: se a prof. Mariana não responder até sexta 6 nov, enviar lembrete
+- Notas: pedido a enviar à Dra. Hélia Rosa; estágio a partir de 1 fev 2027, 560 h
+- Melhor forma: lembrete curto e cordial por e-mail (o assistente redige)
+- Forma mais rápida: perguntar à professora no corredor
+
+## [Alta] Dividir o trabalho de Turismo Internacional no grupo
+- Prazo: esta semana (entrega a 24 nov, sem atrasos)
+- Notas: 5 alunos, 15–25 páginas, estudo de caso com indicadores estatísticos
+- Melhor forma: reunião de 30 min com divisão por partes e datas intermédias
+- Forma mais rápida: documento partilhado com o índice e um nome em cada parte
+
+---
+
 ## 🗓️ Fins de semana em Ourém (sem gastar dinheiro)
 
 ## [Média] Testar o molho da casa (com os pais)

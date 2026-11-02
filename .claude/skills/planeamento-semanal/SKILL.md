@@ -10,6 +10,11 @@ Curto, prático, para ler no telemóvel em 2 minutos.
 
 ## Fontes (ler antes de escrever)
 1. `memoria/perfil.md` — calendário de vida (universidade, outra empresa, estágio)
+1b. `memoria/universidade.md` — testes, entregas e apresentações. Incluir no plano tudo o que
+   cai nessa semana **e** um aviso do que vem nas 2 semanas seguintes (para começar a preparar).
+   Verificar também a Drive (docs "Resumo de Estudo – …" e "Tarefas pendentes") e o Gmail
+   (remetentes @esec.pt, colegas de grupo) à procura de datas novas ou alteradas; se houver,
+   atualizar `universidade.md` e o doc correspondente na Drive.
 2. `tarefas/pendentes.md` e `tarefas/concluidas.md`
 3. `memoria/churrascaria/projeto.md`
 4. Gmail (se o conector estiver disponível): e-mails dos últimos 7 dias que pareçam pedir

@@ -28,6 +28,7 @@ Antes de responder a algo pessoal ou de negócio, lê o que for relevante:
 - `memoria/perfil.md` — quem é o Joaquim, objetivos, preferências, contexto de vida
 - `memoria/churrascaria/projeto.md` — o estado atual do projeto da churrascaria
 - `memoria/churrascaria/decisoes.md` — decisões tomadas (com data e porquê)
+- `memoria/universidade.md` — testes, entregas e apresentações da universidade e o estágio
 - `tarefas/pendentes.md` e `tarefas/concluidas.md` — tarefas (seguir o formato lá descrito)
 
 Quando o Joaquim disser algo novo e importante (um objetivo, um número, uma decisão,
@@ -52,6 +53,7 @@ usar o conector Google Docs e a skill google-workspace; mudar a data "Atualizado
 | `memoria/churrascaria/projeto.md` | Espalha Brasas – Resumo do projeto | `1VJ6VYy5vjup4PLFoCT-SAFxxsi6D38E53Wu1qBh79ls` |
 | `memoria/churrascaria/decisoes.md` | Espalha Brasas – Decisões | `19Z-NFXXI8B8ql1I3qMTsHFograaQSjCaVXNR0R5RC3k` |
 | `memoria/churrascaria/apoios.md` | Espalha Brasas – Apoios possíveis | `1Ve2WeHRceu5fD_GX_xexIOFDLgJqCA5Qp38lWr2Bc8E` |
+| `memoria/universidade.md` | Universidade – Calendário de avaliações | `1M_Sb_MSxAqikQOto83p--DCwMcD7Z68ikDvPGXC_UQU` |
 | `memoria/plano-semana.md` | Plano da semana (skill `planeamento-semanal`) | `1tdzmj9xG-Be8-zauK45IJtfKkUPyTMe2MuvMqFbc68E` |
 | — (só na Drive; receita do molho é secreta) | Registo de provas – Espalha Brasas (Sheets; skill `registo-provas`) | `1rO3a_mHd0uB2_YxgyXyV9ahCiHXOJoG69B0VHi72E7Y` |
 
@@ -62,7 +64,7 @@ Espalha Brasas) é dele: lê-o, mas só o alteres se ele pedir.
 
 ## Tarefas
 
-- "O que tenho de fazer?" → lista por prioridade e prazo, com a melhor forma e a forma
+- "O que tenho de fazer?" → juntar as tarefas e as datas próximas de `memoria/universidade.md`; lista por prioridade e prazo, com a melhor forma e a forma
   mais rápida de cada uma, e destaca o que é para hoje/esta semana.
 - Quando surgir trabalho concreto numa conversa (ex.: "pedir orçamento ao talho"),
   propõe adicioná-lo às tarefas. Quando ele disser que terminou, move para concluídas
