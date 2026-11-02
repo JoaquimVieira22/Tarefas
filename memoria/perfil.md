@@ -6,7 +6,8 @@ _O assistente vai preenchendo este ficheiro à medida que for conhecendo o Joaqu
 - Joaquim Vieira, 22 anos
 - Finalista da licenciatura em Turismo
 - Língua: português de Portugal
-- Zona: Pinhel, concelho de Ourém
+- Durante a universidade vive em Coimbra; ao fim de semana vai para Ourém (casa dos pais)
+- Zona do negócio: Pinhel, concelho de Ourém
 
 ## Objetivos
 - Abrir a **Espalha Brasas**, uma churrascaria de take away (primeiro negócio) —

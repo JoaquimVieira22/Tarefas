@@ -10,6 +10,22 @@ Formato de cada tarefa:
 - Forma mais rápida: ...
 ```
 
+## 🗓️ Fins de semana em Ourém (sem gastar dinheiro)
+
+## [Média] Testar o molho da casa (com os pais)
+- Quando: fins de semana em Ourém
+- Notas: mudar só uma coisa de cada vez; apontar a receita exata (quantidades), o que mudou e a nota de cada pessoa (1–5). A receita final fica secreta.
+- Melhor forma: ficha de testes (data, versão, ingredientes e quantidades, notas de quem provou)
+- Forma mais rápida: apontar cada versão no telemóvel logo a seguir
+
+## [Média] Encomendar frango à concorrência e avaliar (com os pais)
+- Quando: fins de semana em Ourém (ex.: ao jantar)
+- Notas: começar pelas churrasqueiras mais perto de Pinhel. Apontar: preço do frango e dos acompanhamentos, quanto tempo demoram a atender o telefone, tempo de espera, como chega a embalagem (quente? batata mole?), qualidade (1–5), o molho, o que fazem bem e mal. Dá para comparar com o molho da casa na mesma refeição.
+- Melhor forma: usar a mesma ficha em todas, para comparar
+- Forma mais rápida: notas no telemóvel logo a seguir à refeição
+
+---
+
 ## [Alta] Marcar reunião com um contabilista
 - Prazo: próximas 2 semanas
 - Notas: escolher a forma jurídica (nome individual vs. unipessoal), registos nas Finanças e Segurança Social, CAE de take away. Levar também a questão da outra empresa.
@@ -48,12 +64,6 @@ Formato de cada tarefa:
 
 ## [Média] Fechar o menu
 - Prazo: —
-- Notas: escolher 1–2 sobremesas, testar o molho da casa, definir preços (custo de matéria-prima por prato)
+- Notas: escolher 1–2 sobremesas, definir preços (custo de matéria-prima por prato); o molho está nos testes de fim de semana
 - Melhor forma: testes em casa com família e amigos, com uma ficha de avaliação
 - Forma mais rápida: começar pelo cálculo de preços dos grelhados principais
-
-## [Baixa] Completar a análise da concorrência
-- Prazo: —
-- Notas: ver no mapa as mais perto de Pinhel; comparar preços, menus, horários
-- Melhor forma: visitar/encomendar nas 3–4 mais próximas
-- Forma mais rápida: Google Maps e páginas da Uber Eats/Glovo
