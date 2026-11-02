@@ -32,7 +32,7 @@
 | Menu | 🔄 quase fechado | faltam sobremesas, molho e preços |
 | Localização | ✅ garantida | falta o contrato por escrito |
 | Concorrência | 🔄 | lista feita; falta mapa, preços, horários |
-| Apoios (IEFP) | ⚠️ urgente | ir ao IEFP antes de abrir a outra empresa |
+| Apoios | 🔄 a pesquisar | abertura prevista só depois do estágio; ver `apoios.md` |
 | Legal | 🔄 | marcar contabilista; forma jurídica por decidir |
 | Obras e licenciamento | ⬜ | ir à Câmara de Ourém ANTES das obras |
 | Equipamento e fornecedores | ⬜ | pedir orçamentos; ver segunda mão |
@@ -40,4 +40,4 @@
 | Marketing e abertura | ⬜ | por definir |
 
 ## Próximo passo sugerido
-Marcar o atendimento no IEFP (prazo crítico: antes de abrir a outra empresa).
+Sem pressa: o projeto avança depois da universidade, da outra empresa e do estágio. Entretanto: confirmar apoios (ver `apoios.md`) e avançar no que não custa dinheiro (menu, molho, concorrência).

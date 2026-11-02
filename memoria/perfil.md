@@ -11,8 +11,13 @@ _O assistente vai preenchendo este ficheiro à medida que for conhecendo o Joaqu
 ## Objetivos
 - Abrir a **Espalha Brasas**, uma churrascaria de take away (primeiro negócio) —
   ver `churrascaria/projeto.md`
-- Vai também abrir outra empresa com 2 sócios (dentro de ~2 meses, a contar de nov/2026)
-  ⚠️ pode afetar o acesso aos apoios do IEFP — ver o projeto
+- Vai também abrir outra empresa com 2 sócios (certeza; nos próximos meses)
+
+## Calendário previsto (indicado em 2026-11-02)
+1. Terminar a licenciatura (~2 meses → ~jan/2027), depois férias de Natal
+2. Abrir a outra empresa com os sócios
+3. Estágio na Câmara (falta enviar e-mail à coordenadora do curso)
+4. Só depois abrir a Espalha Brasas, quando ficar a viver/trabalhar em Ourém
 
 ## Preferências
 - Quer um assistente profissional, que fale como assistente pessoal e de negócios

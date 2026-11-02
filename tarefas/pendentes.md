@@ -10,11 +10,17 @@ Formato de cada tarefa:
 - Forma mais rápida: ...
 ```
 
-## [Urgente] Ir ao IEFP antes de abrir a outra empresa
-- Prazo: o mais cedo possível (a outra empresa abre em ~2 meses)
-- Notas: confirmar se ser sócio de outra empresa tira o acesso ao Empreende XXI ("à procura do primeiro emprego"). Inscrever-se no Centro de Emprego. Confirmar o serviço que abrange Ourém (possivelmente Tomar).
-- Melhor forma: marcar atendimento presencial e levar uma folha com as perguntas e um resumo do projeto
-- Forma mais rápida: ligar para o IEFP ou marcar no iefponline.iefp.pt
+## [Alta] Enviar e-mail à coordenadora do curso sobre o estágio na Câmara
+- Prazo: esta semana
+- Notas: estágio na Câmara depois de terminar a licenciatura
+- Melhor forma: e-mail curto e formal com a proposta de estágio, datas e o que esperas aprender; pedir reunião se for preciso
+- Forma mais rápida: pedir ao assistente para redigir o e-mail
+
+## [Média] Confirmar apoios para a Espalha Brasas (sem pressa)
+- Prazo: antes de abrir a outra empresa, se possível
+- Notas: ver `memoria/churrascaria/apoios.md`. Perguntas-chave: ser sócio de outra empresa exclui do Empreende XXI? Que avisos LEADER (ADIRN) e da Câmara de Ourém estão previstos para 2027?
+- Melhor forma: uma ida ao núcleo StartUP Ourém (NERSANT) — é gratuito e eles conhecem todos os apoios da zona
+- Forma mais rápida: e-mail ou telefone à NERSANT / StartUP Ourém
 
 ## [Alta] Marcar reunião com um contabilista
 - Prazo: próximas 2 semanas
