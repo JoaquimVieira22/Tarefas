@@ -55,3 +55,7 @@ parada há muito, sugerir com tato dividi-la ou largá-la.
 ## Se faltar alguma coisa
 Se o Gmail ou a Drive não estiverem acessíveis, fazer o plano com o que houver e dizer
 numa linha o que não foi possível consultar.
+
+## Tarefa agendada
+Corre todos os domingos às 21:40 (hora de Lisboa), numa sessão nova, com notificação no
+telemóvel. Id da tarefa agendada: `trig_01XJEjxTdzoLRnX3moravk6e` (para alterar a hora ou parar).
