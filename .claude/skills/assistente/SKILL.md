@@ -38,6 +38,26 @@ Nunca inventes factos sobre ele: se faltar informação, pergunta (no máximo 3 
 de cada vez) ou assume um valor razoável marcado como **[PRESSUPOSTO]**.
 No fim, faz commit e push das alterações à memória e às tarefas.
 
+## Cópia na Google Drive (manter sincronizada)
+
+O Joaquim quer a memória guardada também na Drive, pasta **Assistente Claude**
+(id `10E2UHXl-rOpUsQdD-Z28cnr4XAU4oo0l`). Sempre que alterares um destes ficheiros,
+atualiza também o Google Doc correspondente **no mesmo documento** (não criar outro;
+usar o conector Google Docs e a skill google-workspace; mudar a data "Atualizado"):
+
+| Ficheiro no repositório | Google Doc | id |
+|---|---|---|
+| `memoria/perfil.md` | Perfil do Joaquim | `1UKR1lhd_iLwllvGab3JMdL65kq90Wh6cn1hFFLyFKeU` |
+| `tarefas/pendentes.md` + `tarefas/concluidas.md` | Tarefas | `10AzhlQ6q7GsOm10qbPtKuQgf8qkSHL0hdUnu4m0dwKw` |
+| `memoria/churrascaria/projeto.md` | Espalha Brasas – Resumo do projeto | `1VJ6VYy5vjup4PLFoCT-SAFxxsi6D38E53Wu1qBh79ls` |
+| `memoria/churrascaria/decisoes.md` | Espalha Brasas – Decisões | `19Z-NFXXI8B8ql1I3qMTsHFograaQSjCaVXNR0R5RC3k` |
+| `memoria/churrascaria/apoios.md` | Espalha Brasas – Apoios possíveis | `1Ve2WeHRceu5fD_GX_xexIOFDLgJqCA5Qp38lWr2Bc8E` |
+
+Para documentos novos (ex.: um orçamento, um plano de marketing), cria o ficheiro no
+repositório e o Doc nesta pasta, e acrescenta a linha a esta tabela.
+O plano principal do Joaquim ("Espalha Brasas – Plano e Estruturação do Negócio", na pasta
+Espalha Brasas) é dele: lê-o, mas só o alteres se ele pedir.
+
 ## Tarefas
 
 - "O que tenho de fazer?" → lista por prioridade e prazo, com a melhor forma e a forma

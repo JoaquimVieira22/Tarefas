@@ -10,18 +10,6 @@ Formato de cada tarefa:
 - Forma mais rápida: ...
 ```
 
-## [Alta] Enviar e-mail à coordenadora do curso sobre o estágio na Câmara
-- Prazo: esta semana
-- Notas: estágio na Câmara depois de terminar a licenciatura
-- Melhor forma: e-mail curto e formal com a proposta de estágio, datas e o que esperas aprender; pedir reunião se for preciso
-- Forma mais rápida: pedir ao assistente para redigir o e-mail
-
-## [Média] Confirmar apoios para a Espalha Brasas (sem pressa)
-- Prazo: antes de abrir a outra empresa, se possível
-- Notas: ver `memoria/churrascaria/apoios.md`. Perguntas-chave: ser sócio de outra empresa exclui do Empreende XXI? Que avisos LEADER (ADIRN) e da Câmara de Ourém estão previstos para 2027?
-- Melhor forma: uma ida ao núcleo StartUP Ourém (NERSANT) — é gratuito e eles conhecem todos os apoios da zona
-- Forma mais rápida: e-mail ou telefone à NERSANT / StartUP Ourém
-
 ## [Alta] Marcar reunião com um contabilista
 - Prazo: próximas 2 semanas
 - Notas: escolher a forma jurídica (nome individual vs. unipessoal), registos nas Finanças e Segurança Social, CAE de take away. Levar também a questão da outra empresa.
@@ -39,6 +27,12 @@ Formato de cada tarefa:
 - Notas: contrato de arrendamento com as obras descontadas nas rendas (também pode ser pedido nas candidaturas aos apoios)
 - Melhor forma: o contabilista ou um advogado redige o contrato
 - Forma mais rápida: pedir uma minuta ao contabilista na primeira reunião
+
+## [Média] Confirmar apoios para a Espalha Brasas (sem pressa)
+- Prazo: antes de abrir a outra empresa, se possível
+- Notas: ver `memoria/churrascaria/apoios.md`. Perguntas-chave: ser sócio de outra empresa exclui do Empreende XXI? Que avisos LEADER (ADIRN) e da Câmara de Ourém estão previstos para 2027?
+- Melhor forma: uma ida ao núcleo StartUP Ourém (NERSANT) — é gratuito e eles conhecem todos os apoios da zona
+- Forma mais rápida: e-mail ou telefone à NERSANT / StartUP Ourém
 
 ## [Média] Pedir orçamentos de obras e equipamento
 - Prazo: depois da Câmara
