@@ -28,7 +28,7 @@ Formato de cada tarefa:
 - Melhor forma: hoje à noite, ensaiar a tua parte 2 vezes em voz alta, com o tempo cronometrado, e combinar no grupo a ordem de quem fala
 - Forma mais rápida: rever os teus diapositivos e escrever 3–4 tópicos por diapositivo para levar
 
-## [Urgente] Consulta às 12h (Coimbra)
+## ✅ CONCLUÍDA (3 nov) — Consulta às 12h (Coimbra)
 - Prazo: amanhã, ter 3 nov, 12:00
 - Notas: sais de Gestão Hoteleira às 11h; a aula de TI começa às 13h. Se a consulta atrasar, avisar o grupo/docente de TI
 - Melhor forma: levar o que for preciso (cartão de cidadão/utente) e sair cedo para chegar a horas
