@@ -18,6 +18,12 @@ Formato de cada tarefa:
 - Melhor forma: levar uma agenda curta por escrito e sair com decisões e responsáveis
 - Forma mais rápida: pedir ao assistente a agenda e uma lista de perguntas
 
+## [Alta] Rever os conteúdos da reunião — sábado 7 nov
+- Prazo: sábado 7 nov, antes do jantar
+- Notas: rever os temas que vão ser falados (incluindo o papel do Joaquim na empresa e o efeito nos apoios da Espalha Brasas)
+- Melhor forma: reler os apontamentos com calma durante a tarde
+- Forma mais rápida: rever os pontos principais 15 min antes de sair
+
 ---
 
 ## 🎓 Universidade (datas completas em `memoria/universidade.md`)
