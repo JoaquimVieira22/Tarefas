@@ -24,7 +24,8 @@ _O assistente vai preenchendo este ficheiro à medida que for conhecendo o Joaqu
 4. Só depois abrir a Espalha Brasas, quando ficar a viver/trabalhar em Ourém
 
 ## Preferências
-- Tempo cheio (universidade, Espalha Brasas, outra empresa): **não quer projetos extra para ganhar dinheiro** por agora (decidido a 2026-11-02); fins de semana são para a família e os amigos — não encher com trabalho
+- Tempo cheio (universidade, Espalha Brasas, outra empresa); fins de semana são para a família e os amigos — não encher com trabalho
+- **Mudou de ideias a 2026-11-03:** quer criar uma fonte de rendimento extra com vídeos nas redes sociais (YouTube, Instagram, TikTok), com vídeos feitos com IA a partir de roteiros dele. Ouviu falar do Higgsfield. Ainda falta definir o nicho, o tempo por semana e o orçamento (em 2026-11-02 tinha dito que não queria projetos extra)
 - Quer um assistente profissional, que fale como assistente pessoal e de negócios
 - Antes de instalar qualquer skill, quer o relatório de segurança completo
 
