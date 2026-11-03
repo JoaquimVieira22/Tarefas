@@ -34,9 +34,9 @@ Formato de cada tarefa:
 - Melhor forma: levar o que for preciso (cartão de cidadão/utente) e sair cedo para chegar a horas
 - Forma mais rápida: pôr um alarme às 11h15
 
-## [Alta] Confirmar com o grupo a data da entrevista de Comportamento do Consumidor
-- Prazo: amanhã (a entrevista deverá ser na sexta 6 nov)
-- Notas: confirmar hora, quem leva o guião validado pela docente e o pedido de autorização para gravar
+## [Alta] Entrevista de Comportamento do Consumidor — sexta 6 nov (data confirmada a 3 nov)
+- Prazo: sexta 6 nov (data confirmada)
+- Notas: falta confirmar a hora, quem leva o guião validado pela docente e o pedido de autorização para gravar
 - Melhor forma: mensagem no grupo com as 3 perguntas
 - Forma mais rápida: perguntar na aula de amanhã
 
