@@ -14,7 +14,7 @@ Formato de cada tarefa:
 
 ## [Alta] Preparar a reunião de sábado 7 nov (ao jantar)
 - Prazo: sábado 7 nov
-- Notas: levar a questão do papel do Joaquim na empresa (sócio-gerente ou não, com ou sem salário), porque pode afetar os apoios para a Espalha Brasas (Empreende XXI)
+- Notas: levar a questão do papel do Joaquim na empresa (sócio-gerente ou não, com ou sem salário), porque pode afetar os apoios para a Espalha Brasas (Empreende XXI). Preparação já tratada noutro sítio.
 - Melhor forma: levar uma agenda curta por escrito e sair com decisões e responsáveis
 - Forma mais rápida: pedir ao assistente a agenda e uma lista de perguntas
 
@@ -36,11 +36,11 @@ Formato de cada tarefa:
 
 ## [Alta] Entrevista de Comportamento do Consumidor — sexta 6 nov (data confirmada a 3 nov)
 - Prazo: sexta 6 nov (data confirmada)
-- Notas: falta confirmar a hora, quem leva o guião validado pela docente e o pedido de autorização para gravar
-- Melhor forma: mensagem no grupo com as 3 perguntas
+- Notas: pessoa entrevistada confirmada para sexta; guião já validado pela docente e autorização para gravar já obtida. Só falta saber a hora (não é problema)
+- Melhor forma: combinar a hora com a pessoa entrevistada
 - Forma mais rápida: perguntar na aula de amanhã
 
-## [Alta] Responder à prof. Mariana sobre a função da Dra. Hélia
+## ✅ CONCLUÍDA (2 nov, 22:35) — Responder à prof. Mariana sobre a função da Dra. Hélia
 - Prazo: amanhã
 - Notas: a professora vai pedir ao gabinete de estágios da ESEC para formalizar e perguntou se a Dra. Hélia é dos RH ou do Turismo. Resposta: Técnica Superior da Divisão de Educação (assinatura do e-mail de 28 out). Rascunho preparado pelo assistente.
 - Melhor forma: responder no mesmo e-mail, curto e cordial
@@ -48,7 +48,7 @@ Formato de cada tarefa:
 
 ## [Alta] Dividir o trabalho de Turismo Internacional no grupo
 - Prazo: esta semana (entrega a 24 nov, sem atrasos)
-- Notas: 5 alunos, 15–25 páginas, estudo de caso com indicadores estatísticos
+- Notas: 3 alunos (Joaquim, Rita e Salomé), 15–25 páginas; o Joaquim vai criar o documento partilhado com a divisão o mais rápido possível (a 3 nov já não deu), estudo de caso com indicadores estatísticos
 - Melhor forma: reunião de 30 min com divisão por partes e datas intermédias
 - Forma mais rápida: documento partilhado com o índice e um nome em cada parte
 
