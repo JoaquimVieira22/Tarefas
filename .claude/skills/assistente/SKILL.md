@@ -55,6 +55,8 @@ usar o conector Google Docs e a skill google-workspace; mudar a data "Atualizado
 | `memoria/churrascaria/apoios.md` | Espalha Brasas – Apoios possíveis | `1Ve2WeHRceu5fD_GX_xexIOFDLgJqCA5Qp38lWr2Bc8E` |
 | `memoria/universidade.md` | Universidade – Calendário de avaliações | `1M_Sb_MSxAqikQOto83p--DCwMcD7Z68ikDvPGXC_UQU` |
 | `memoria/plano-semana.md` | Plano da semana (skill `planeamento-semanal`) | `1tdzmj9xG-Be8-zauK45IJtfKkUPyTMe2MuvMqFbc68E` |
+| `memoria/eventos/projeto.md` | Quinta de Eventos – Plano de estruturação (pasta Quinta de Eventos) | `1VoRTrwx-jLmpWjLmKOTpRcmgrG9noksyVYncddLayJ0` |
+| `memoria/eventos/apoios.md` | Quinta de Eventos – Apoios possíveis (pasta Quinta de Eventos) | `1PDK8OKHN8-CPHJTw8Lgt6PRdASf13VQ43EyeZCG94f0` |
 | — (só na Drive; receita do molho é secreta) | Registo de provas – Espalha Brasas (Sheets; skill `registo-provas`) | `1rO3a_mHd0uB2_YxgyXyV9ahCiHXOJoG69B0VHi72E7Y` |
 
 Para documentos novos (ex.: um orçamento, um plano de marketing), cria o ficheiro no

@@ -10,7 +10,7 @@ Formato de cada tarefa:
 - Forma mais rápida: ...
 ```
 
-## 🏢 Outra empresa (com o irmão e o Bruno)
+## 🏢 Outra empresa (com o Bruno e o Armando, irmão)
 
 ## [Alta] Preparar a reunião de sábado 7 nov (ao jantar)
 - Prazo: sábado 7 nov
@@ -22,7 +22,7 @@ Formato de cada tarefa:
 
 ## 🎓 Universidade (datas completas em `memoria/universidade.md`)
 
-## [Urgente] Apresentação de Turismo Internacional
+## ✅ CONCLUÍDA (3 nov) — Apresentação de Turismo Internacional (Região Turística das Américas)
 - Prazo: amanhã, ter 3 nov (aula das 13h–17h, Sala 17)
 - Notas: a consulta é ao meio-dia, por isso a apresentação tem de ficar pronta e ensaiada hoje à noite
 - Melhor forma: hoje à noite, ensaiar a tua parte 2 vezes em voz alta, com o tempo cronometrado, e combinar no grupo a ordem de quem fala
@@ -87,6 +87,12 @@ Formato de cada tarefa:
 - Notas: contrato de arrendamento com as obras descontadas nas rendas (também pode ser pedido nas candidaturas aos apoios)
 - Melhor forma: o contabilista ou um advogado redige o contrato
 - Forma mais rápida: pedir uma minuta ao contabilista na primeira reunião
+
+## [Baixa] Quinta de Eventos — Fase 0: saber o que a Câmara permite na quinta
+- Prazo: sem pressa (2027, em paralelo com o resto; negócio só depois da Espalha Brasas e da outra empresa)
+- Notas: plano e apoios em `memoria/eventos/` (Drive: pasta "Quinta de Eventos"). Primeiro confirmar no urbanismo da Câmara a classificação do terreno no PDM (rústico/urbano, RAN/REN) e se pode ter espaço de eventos/restauração. Na ida à NERSANT pelos apoios da Espalha Brasas, perguntar também pelos apoios para eventos e que CAE usar.
+- Melhor forma: atendimento presencial no urbanismo, com a caderneta/planta da quinta
+- Forma mais rápida: e-mail à Câmara com a localização da quinta a pedir a classificação no PDM
 
 ## [Média] Confirmar apoios para a Espalha Brasas (sem pressa)
 - Prazo: antes de abrir a outra empresa, se possível
