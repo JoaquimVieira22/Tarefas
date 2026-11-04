@@ -10,6 +10,9 @@ vontade e o assistente lê os Docs no início de cada conversa.
 - `.claude/skills/assistente/` – o assistente pessoal e de negócios (com o índice dos Docs da Drive)
 - `.claude/skills/planeamento-semanal/` – plano da semana (corre sozinho ao domingo à noite)
 - `.claude/skills/registo-provas/` – regista provas do molho e da concorrência no Google Sheets
+- `.claude/skills/reunioes-empresa/` – agendas e atas das reuniões da outra empresa
+- `.claude/skills/custos-menu/` – custo por prato e preços do menu (Google Sheets)
+- `.claude/skills/trabalhos-academicos/` – trabalhos, apresentações e estudo da universidade
 - `.claude/skills/find-skills/` – procura de skills, com relatório de segurança obrigatório
 
 Os antigos ficheiros `memoria/` e `tarefas/` foram retirados a 2026-11-04 (ficam no

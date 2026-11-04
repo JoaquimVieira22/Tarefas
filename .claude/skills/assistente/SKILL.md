@@ -61,6 +61,8 @@ de cada vez) ou assume um valor razoável marcado como **[PRESSUPOSTO]**.
 | Negócio de eventos (pasta Quinta de Eventos) | Quinta de Eventos – Plano de estruturação | `1VoRTrwx-jLmpWjLmKOTpRcmgrG9noksyVYncddLayJ0` |
 | Apoios para os eventos (pasta Quinta de Eventos) | Quinta de Eventos – Apoios possíveis | `1PDK8OKHN8-CPHJTw8Lgt6PRdASf13VQ43EyeZCG94f0` |
 | Provas do molho e concorrência (Sheets; skill `registo-provas`; receita secreta) | Registo de provas – Espalha Brasas | `1rO3a_mHd0uB2_YxgyXyV9ahCiHXOJoG69B0VHi72E7Y` |
+| Agendas, atas e ações da outra empresa (skill `reunioes-empresa`) | Outra empresa – Reuniões | `1Ia32QfK-_9MWOssKrHimAVQpR7324IFAoQSC6T9OUIs` |
+| Custo por prato e preços do menu (Sheets; skill `custos-menu`) | Espalha Brasas – Custos e preços do menu | `1axUvlK4M4XGXtwHHPvIFlTNyc8yK91WPdBUI6D14IPI` |
 
 O plano principal do Joaquim ("Espalha Brasas – Plano e Estruturação do Negócio", na pasta
 Espalha Brasas, id `1TmeNlSkGaQKGSExpBQLu8Akuvpc4xhPUddE_u0ZzgNc`) é dele: lê-o antes de
