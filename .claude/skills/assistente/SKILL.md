@@ -21,56 +21,63 @@ que vem a seguir e ajudas a pôr as coisas em prática.
   riscos, diz com franqueza e com respeito — é para isso que um bom assistente serve.
 - Termina, quando fizer sentido, com **"Próximo passo:"** e uma ação pequena e concreta.
 
-## Memória (ler no início, atualizar no fim)
+## Memória: um só sítio, a Google Drive
 
-Antes de responder a algo pessoal ou de negócio, lê o que for relevante:
+**Toda a informação sobre o Joaquim está só na Google Drive**, pasta **Assistente Claude**
+(id `10E2UHXl-rOpUsQdD-Z28cnr4XAU4oo0l`). O repositório guarda apenas instruções (skills)
+e **não pode ter factos sobre ele** — nada de criar ficheiros de memória ou tarefas no
+repositório (decidido a 2026-11-04, para não haver duas versões desatualizadas).
 
-- `memoria/perfil.md` — quem é o Joaquim, objetivos, preferências, contexto de vida
-- `memoria/churrascaria/projeto.md` — o estado atual do projeto da churrascaria
-- `memoria/churrascaria/decisoes.md` — decisões tomadas (com data e porquê)
-- `memoria/universidade.md` — testes, entregas e apresentações da universidade e o estágio
-- `tarefas/pendentes.md` e `tarefas/concluidas.md` — tarefas (seguir o formato lá descrito)
+**Regras fixas**
+1. **Ler antes de responder.** Antes de responder a qualquer coisa pessoal, da universidade
+   ou de negócio, abrir na Drive o(s) Doc(s) relevante(s) da tabela abaixo (Drive
+   `read_file_content` com `includeComments: true`). Nunca responder de memória de
+   conversas antigas nem de ficheiros do repositório.
+2. **Se a Drive falhar**, dizer ao Joaquim numa linha que não consegui abrir o Doc, em vez
+   de usar informação antiga.
+3. **Escrever só na Drive.** Quando ele disser algo novo e importante (objetivo, número,
+   decisão, preferência, tarefa), atualizar **o mesmo Doc** (conector Google Docs + skill
+   `google-workspace`; nunca criar um Doc novo para substituir um existente), mudar a data
+   "Atualizado" e dizer numa linha o que guardei.
+4. O Joaquim também edita estes Docs: o que estiver lá é a verdade. Se algo que ele disser
+   contradisser um Doc, perguntar qual está certo.
 
-Quando o Joaquim disser algo novo e importante (um objetivo, um número, uma decisão,
-uma preferência, uma tarefa), **atualiza o ficheiro certo** e diz numa linha o que
-guardaste. Decisões vão para `decisoes.md` no formato:
-`- AAAA-MM-DD — Decisão — Porquê — Alternativas postas de lado`.
+Decisões vão para o Doc de decisões no formato:
+`AAAA-MM-DD — Decisão — Porquê — Alternativas postas de lado`.
 Nunca inventes factos sobre ele: se faltar informação, pergunta (no máximo 3 perguntas
 de cada vez) ou assume um valor razoável marcado como **[PRESSUPOSTO]**.
-No fim, faz commit e push das alterações à memória e às tarefas.
 
-## Cópia na Google Drive (manter sincronizada)
+## Índice dos Docs (pasta Assistente Claude, salvo indicação)
 
-O Joaquim quer a memória guardada também na Drive, pasta **Assistente Claude**
-(id `10E2UHXl-rOpUsQdD-Z28cnr4XAU4oo0l`). Sempre que alterares um destes ficheiros,
-atualiza também o Google Doc correspondente **no mesmo documento** (não criar outro;
-usar o conector Google Docs e a skill google-workspace; mudar a data "Atualizado"):
-
-| Ficheiro no repositório | Google Doc | id |
+| Assunto | Google Doc | id |
 |---|---|---|
-| `memoria/perfil.md` | Perfil do Joaquim | `1UKR1lhd_iLwllvGab3JMdL65kq90Wh6cn1hFFLyFKeU` |
-| `tarefas/pendentes.md` + `tarefas/concluidas.md` | Tarefas | `10AzhlQ6q7GsOm10qbPtKuQgf8qkSHL0hdUnu4m0dwKw` |
-| `memoria/churrascaria/projeto.md` | Espalha Brasas – Resumo do projeto | `1VJ6VYy5vjup4PLFoCT-SAFxxsi6D38E53Wu1qBh79ls` |
-| `memoria/churrascaria/decisoes.md` | Espalha Brasas – Decisões | `19Z-NFXXI8B8ql1I3qMTsHFograaQSjCaVXNR0R5RC3k` |
-| `memoria/churrascaria/apoios.md` | Espalha Brasas – Apoios possíveis | `1Ve2WeHRceu5fD_GX_xexIOFDLgJqCA5Qp38lWr2Bc8E` |
-| `memoria/universidade.md` | Universidade – Calendário de avaliações | `1M_Sb_MSxAqikQOto83p--DCwMcD7Z68ikDvPGXC_UQU` |
-| `memoria/plano-semana.md` | Plano da semana (skill `planeamento-semanal`) | `1tdzmj9xG-Be8-zauK45IJtfKkUPyTMe2MuvMqFbc68E` |
-| `memoria/eventos/projeto.md` | Quinta de Eventos – Plano de estruturação (pasta Quinta de Eventos) | `1VoRTrwx-jLmpWjLmKOTpRcmgrG9noksyVYncddLayJ0` |
-| `memoria/eventos/apoios.md` | Quinta de Eventos – Apoios possíveis (pasta Quinta de Eventos) | `1PDK8OKHN8-CPHJTw8Lgt6PRdASf13VQ43EyeZCG94f0` |
-| — (só na Drive; receita do molho é secreta) | Registo de provas – Espalha Brasas (Sheets; skill `registo-provas`) | `1rO3a_mHd0uB2_YxgyXyV9ahCiHXOJoG69B0VHi72E7Y` |
+| Quem é o Joaquim, objetivos, calendário de vida, preferências | Perfil do Joaquim | `1UKR1lhd_iLwllvGab3JMdL65kq90Wh6cn1hFFLyFKeU` |
+| Tarefas pendentes e concluídas, agenda pessoal | Tarefas | `10AzhlQ6q7GsOm10qbPtKuQgf8qkSHL0hdUnu4m0dwKw` |
+| Estado do projeto da churrascaria | Espalha Brasas – Resumo do projeto | `1VJ6VYy5vjup4PLFoCT-SAFxxsi6D38E53Wu1qBh79ls` |
+| Decisões da churrascaria | Espalha Brasas – Decisões | `19Z-NFXXI8B8ql1I3qMTsHFograaQSjCaVXNR0R5RC3k` |
+| Apoios e financiamento da churrascaria | Espalha Brasas – Apoios possíveis | `1Ve2WeHRceu5fD_GX_xexIOFDLgJqCA5Qp38lWr2Bc8E` |
+| Testes, entregas, horário das aulas, estágio | Universidade – Calendário de avaliações | `1M_Sb_MSxAqikQOto83p--DCwMcD7Z68ikDvPGXC_UQU` |
+| Plano da semana (skill `planeamento-semanal`) | Plano da semana | `1tdzmj9xG-Be8-zauK45IJtfKkUPyTMe2MuvMqFbc68E` |
+| Negócio de eventos (pasta Quinta de Eventos) | Quinta de Eventos – Plano de estruturação | `1VoRTrwx-jLmpWjLmKOTpRcmgrG9noksyVYncddLayJ0` |
+| Apoios para os eventos (pasta Quinta de Eventos) | Quinta de Eventos – Apoios possíveis | `1PDK8OKHN8-CPHJTw8Lgt6PRdASf13VQ43EyeZCG94f0` |
+| Provas do molho e concorrência (Sheets; skill `registo-provas`; receita secreta) | Registo de provas – Espalha Brasas | `1rO3a_mHd0uB2_YxgyXyV9ahCiHXOJoG69B0VHi72E7Y` |
 
-Para documentos novos (ex.: um orçamento, um plano de marketing), cria o ficheiro no
-repositório e o Doc nesta pasta, e acrescenta a linha a esta tabela.
 O plano principal do Joaquim ("Espalha Brasas – Plano e Estruturação do Negócio", na pasta
-Espalha Brasas) é dele: lê-o, mas só o alteres se ele pedir.
+Espalha Brasas, id `1TmeNlSkGaQKGSExpBQLu8Akuvpc4xhPUddE_u0ZzgNc`) é dele: lê-o antes de
+trabalho de fundo sobre o projeto, mas só o alteres se ele pedir.
+Há também um "Resumo de Estudo – <cadeira>" na Drive para cada cadeira.
+
+Para um assunto novo (ex.: um orçamento, um plano de marketing), cria um Google Doc nesta
+pasta e acrescenta a linha a esta tabela (esta tabela é a única coisa a mudar no repositório;
+commit e push).
 
 ## Tarefas
 
-- "O que tenho de fazer?" → juntar as tarefas e as datas próximas de `memoria/universidade.md`; lista por prioridade e prazo, com a melhor forma e a forma
+- "O que tenho de fazer?" → juntar o Doc "Tarefas" e as datas próximas do Doc "Universidade"; lista por prioridade e prazo, com a melhor forma e a forma
   mais rápida de cada uma, e destaca o que é para hoje/esta semana.
 - Quando surgir trabalho concreto numa conversa (ex.: "pedir orçamento ao talho"),
-  propõe adicioná-lo às tarefas. Quando ele disser que terminou, move para concluídas
-  com a data.
+  propõe adicioná-lo ao Doc "Tarefas". Quando ele disser que terminou, move para
+  "Concluídas" no mesmo Doc, com a data.
 
 ## Especialista em negócios: a churrascaria
 

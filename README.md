@@ -1,18 +1,19 @@
-# Tarefas do Joaquim
+# Assistente do Joaquim — instruções
 
-Este repositório é a "pasta" onde o Claude guarda as tuas tarefas.
-Sempre que perguntares "o que tenho de fazer?", o Claude lê estes ficheiros
-e responde com a lista, a melhor forma e a forma mais rápida de fazer cada tarefa.
+Este repositório guarda **só as instruções** do assistente (as skills).
+**Toda a informação sobre ti (perfil, tarefas, universidade, Espalha Brasas, eventos)
+está na Google Drive, pasta "Assistente Claude".** É o único sítio: podes editar lá à
+vontade e o assistente lê os Docs no início de cada conversa.
 
 ## Estrutura
 
-- `tarefas/pendentes.md` – tarefas por fazer (com prioridade, prazo e dicas)
-- `tarefas/concluidas.md` – histórico do que já foi feito
-- `memoria/` – o que o assistente sabe sobre ti e sobre o projeto da churrascaria
-- `.claude/skills/assistente/` – a skill do teu assistente pessoal e de negócios
-- `.claude/skills/registo-provas/` – regista provas do molho e da concorrência no Google Sheets
+- `.claude/skills/assistente/` – o assistente pessoal e de negócios (com o índice dos Docs da Drive)
 - `.claude/skills/planeamento-semanal/` – plano da semana (corre sozinho ao domingo à noite)
+- `.claude/skills/registo-provas/` – regista provas do molho e da concorrência no Google Sheets
 - `.claude/skills/find-skills/` – procura de skills, com relatório de segurança obrigatório
+
+Os antigos ficheiros `memoria/` e `tarefas/` foram retirados a 2026-11-04 (ficam no
+histórico do git); o conteúdo foi passado para a Drive.
 
 ## Como usar
 

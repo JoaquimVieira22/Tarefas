@@ -24,7 +24,7 @@ Data | Versão | Ingredientes e quantidades | O que mudou | Nota Joaquim (1–5)
 - **Notas:** números de 1 a 5; vazio se a pessoa não provou. Mais de um "outro" → média
   na coluna H e nomes nos Comentários.
 - **Média:** calculá-la tu e escrever o número (1 casa decimal).
-- A receita é **secreta**: nunca a copiar para outro sítio (repositório, e-mails, docs).
+- A receita é **secreta**: nunca a copiar para outro sítio (repositório, e-mails, outros docs).
 
 ## Separador `Concorrência` (colunas A–N)
 Data | Churrasqueira | Localidade | Canal (telefone/balcão/app) | Preço frango (€) | Outros preços | Tempo a atender | Tempo de espera (min) | Embalagem / temperatura | Qualidade frango (1–5) | Molho (1–5) | Pontos fortes | Pontos fracos | Notas
@@ -44,4 +44,4 @@ Data | Churrasqueira | Localidade | Canal (telefone/balcão/app) | Preço frango
 - Concorrência: tabela com preço, espera, qualidade; o preço médio do frango na zona;
   pontos fracos comuns que a Espalha Brasas pode aproveitar; sugerir onde encomendar a seguir.
 - Se surgir uma conclusão importante (ex.: preço de referência do frango na zona), guardá-la
-  em `memoria/churrascaria/projeto.md` e no doc da Drive correspondente (ver skill `assistente`).
+  no Doc "Espalha Brasas – Resumo do projeto" na Drive (ver skill `assistente`).
